@@ -5,4 +5,4 @@
 设置delay使每根柱依次出现~<br>
 
 效果截图:<br>
-![](http://github.com/lilyzhang728/d3.js/raw/master/img/demo.PNG)
+![](https://github.com/lilyzhang728/d3.js/raw/master/img/demo.PNG)
